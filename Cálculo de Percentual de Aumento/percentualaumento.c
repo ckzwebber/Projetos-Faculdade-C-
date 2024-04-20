@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
-int main(void) {
+int main(void)
+{
 
     float salario, percentual, aumento, novo;
 
@@ -19,5 +20,4 @@ int main(void) {
     printf("Seu novo salario e: %.2f \n", novo);
 
     printf("O aumento foi de: %.2f \n", aumento);
-
 }

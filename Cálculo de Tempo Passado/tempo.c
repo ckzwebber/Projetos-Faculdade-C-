@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void) {
+int main(void)
+{
 
     int segundos, minutos, horas;
 
@@ -12,7 +13,7 @@ int main(void) {
     segundos = segundos - (3600 * horas);
     minutos = segundos / 60;
     segundos = segundos - (60 * minutos);
-    
+
     printf("Passaram se: %d horas, %d minutos e %d segundos\n", horas, minutos, segundos);
     printf("Passaram se: %d:%d:%d \n", horas, minutos, segundos);
 

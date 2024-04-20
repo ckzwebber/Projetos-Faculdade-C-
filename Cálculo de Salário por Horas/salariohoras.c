@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <stdlib.h>
 
-int main (void) {
+int main(void)
+{
 
     float horas, salario_min, valorhoras, salariobruto, imposto, salarioreal;
 

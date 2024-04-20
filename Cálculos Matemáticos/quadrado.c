@@ -2,17 +2,21 @@
 #include <stdlib.h>
 #include <math.h>
 
-int main (void) {
+int main(void)
+{
 
     float num, quadrado, cubo, raizqua, raizcub;
 
     printf("Digite um numero: ");
     scanf("%f", &num);
 
-    if (num < 1) {
+    if (num < 1)
+    {
         printf("Por favor, digite um numero maior que zero!");
         return 1;
-    } else {
+    }
+    else
+    {
 
         quadrado = pow(num, 2);
         cubo = pow(num, 3);
@@ -26,6 +30,4 @@ int main (void) {
         system("pause");
         return 0;
     }
-
-
 }

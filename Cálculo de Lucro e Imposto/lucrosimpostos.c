@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void) {
+int main(void)
+{
 
     float fabrica, lucro, impostos, rlucro, rimpostos, precofinal;
 
@@ -29,7 +30,6 @@ int main (void) {
     printf("\n");
     printf("O valor final e: %.2f\n", precofinal);
     printf("\n");
-
 
     system("pause");
     return 0;
