@@ -1,13 +1,15 @@
-  <h1>Projetos em C e C++</h1>
+ # Projetos em C
 
-  <p>Bem-vindo ao repositório dos meus projetos em C e C++! Aqui você encontrará uma coleção de projetos desenvolvidos nessas linguagens, demonstrando minhas habilidades e conhecimentos em programação de baixo nível e algoritmos.</p>
+Seha bem-vindo! Esse repositório conta com vários pequenos códigos e programas desenvolvidos em C, com intuito de exercitar conhecimentos em programação de baixo nível e algoritmos.
 
-  <h2>Como Compilar e Executar</h2>
+## Como Compilar e Executar
 
-  <p>Para compilar e executar os projetos, siga as instruções específicas fornecidas em cada pasta do projeto.</p>
+Para isso, você precisará de algum compilador C. Você pode conferir <a href="https://medium.com/@juniortrojilio/preparando-o-vs-code-para-compilar-c-c-no-windows-988f4a91a557">aqui</a> como executa-los no VsCode, por exemplo.
 
-  <h2>Contribuições</h2>
+## Contribuições
 
-  <p>Contribuições são sempre bem-vindas! Se você encontrar bugs, quiser fazer melhorias ou adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
+Fique a vontade para dar uma olhada no código e contribuir. Deixe seu feedback!
+  
+## Contato
 
-  <p>Obrigado por explorar meus projetos em C e C++!</p>
+Fique a vontade para entrar em contato comigo pelo meu <a href="https://www.linkedin.com/in/cmiguelwm/" target="_blank">LinkedIn</a>, até mais! 👋
