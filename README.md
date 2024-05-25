@@ -1,6 +1,6 @@
  # Projetos em C
 
-Seha bem-vindo! Esse repositório conta com vários pequenos códigos e programas desenvolvidos em C, com intuito de exercitar conhecimentos em programação de baixo nível e algoritmos.
+Seja bem-vindo! Esse repositório conta com vários pequenos códigos e programas desenvolvidos em C, com intuito de exercitar conhecimentos em programação de baixo nível e algoritmos.
 
 ## Como Compilar e Executar
 
