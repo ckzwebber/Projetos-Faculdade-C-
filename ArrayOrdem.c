@@ -3,23 +3,32 @@
 
 int main(void)
 {
-    int numbers[7], i, z;
+    int a[5], i, z, x;
 
-    printf("\nDigite 7 numeros: \n");
+    printf("\nDigite 5 numeros: \n");
 
-    for (i = 0; i < 7; i++)
+    for (i = 0; i < 5; i++)
     {
 
-        scanf("%d", &numbers[i]);
+        scanf("%d", &a[i]);
         printf("\n");
     }
 
-    printf("Os numeros sao: \n");
+    printf("Os valores informados sao: \n");
 
-    for (z = 0; z < 7; z++)
+    for (z = 0; z < 5; z++)
     {
-        printf("--- %d ---", numbers[z]);
-        printf("\n");
+        printf("a[%d] = %d \n", z, a[z]);
     }
+
+    printf("\n -------- \n");
+
+    printf("Em ordem inversa, os valores sao: \n");
+
+    for (x = 4; x > -1; x--)
+    {
+        printf("a[%d] = %d \n", x, a[x]);
+    }
+
     return 0;
 }
