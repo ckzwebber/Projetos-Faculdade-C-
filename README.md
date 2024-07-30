@@ -2,6 +2,8 @@
 
 Seja bem-vindo! Esse repositório conta com vários pequenos códigos e programas desenvolvidos em C, com intuito de exercitar conhecimentos em programação de baixo nível e algoritmos.
 
+- **Tecnologias:** C.
+
 ## Como Compilar e Executar
 
 Para isso, você precisará de algum compilador C. Você pode conferir <a href="https://medium.com/@juniortrojilio/preparando-o-vs-code-para-compilar-c-c-no-windows-988f4a91a557">aqui</a> como executa-los no VsCode, por exemplo.
