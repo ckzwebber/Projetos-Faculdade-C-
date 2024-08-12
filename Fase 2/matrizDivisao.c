@@ -16,7 +16,6 @@ int main(void)
             numbersbyTwo[i][j] = (numbers[i][j] / 2);
         }
     }
-
     printf("Imprimindo: \n");
 
     for (i = 0; i < 2; i++)
