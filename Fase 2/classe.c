@@ -2,6 +2,7 @@
 
 int main(void)
 {
+
     char alunos[6][50];
     float notas[6][2], media = 0, mediaPorAluno[6] = {0};
     float percentualReprovados, percentualExame, percentualAprovados;
