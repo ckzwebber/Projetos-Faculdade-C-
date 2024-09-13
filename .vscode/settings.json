@@ -1,8 +1,8 @@
 {
-    "files.associations": {
-        "stdio.h": "c",
-        "string.h": "c",
-        "funcoescalculasalario.h": "c"
-    },
-    
+  "files.associations": {
+    "stdio.h": "c",
+    "string.h": "c",
+    "funcoescalculasalario.h": "c"
+  },
+  "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe"
 }
