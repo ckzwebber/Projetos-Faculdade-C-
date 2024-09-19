@@ -33,4 +33,6 @@ int main(void)
     gets(string);
 
     alternaString(string);
+
+    return 0;
 }
