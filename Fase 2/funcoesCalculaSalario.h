@@ -2,7 +2,7 @@
 
 void calculaValorDaHoraTrabalhada(float salarioBase, float horaTrabalhada);
 void calculaSalarioBruto(float valorDaHoraTrabalhada, float horaTrabalhada);
-float calculaSalarioLiquido(float salarioBruto);
+void calculaSalarioLiquido(float salarioBruto);
 
 void calculaValorDaHoraTrabalhada(float salarioBase, float horaTrabalhada)
 {
@@ -22,7 +22,7 @@ void calculaSalarioBruto(float valorDaHoraTrabalhada, float horaTrabalhada)
     calculaSalarioLiquido(salarioBruto);
 }
 
-float calculaSalarioLiquido(float salarioBruto)
+void calculaSalarioLiquido(float salarioBruto)
 {
     float salarioLiquido, imposto;
 

@@ -13,4 +13,6 @@ int main(void)
     scanf("%f", &horasTrabalhadas);
 
     calculaValorDaHoraTrabalhada(salarioBase, horasTrabalhadas);
+
+    return 0;
 }
