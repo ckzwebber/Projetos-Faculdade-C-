@@ -2,8 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <functions.h>
-#include <structs.h>
+#include <stdbool.h>
+#include "functions.h"
+#include "structs.h"
 
 int personOnSystem = 0;
 Person listOfPerson[MAXPERSON];
